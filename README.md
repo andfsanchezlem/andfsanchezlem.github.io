@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Andrés Felipe Sánchez Lemus
 
-You can use the [editor on GitHub](https://github.com/andfsanchezlem/andfsanchezlem.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Estudiante de últimos semestres de Ingeniería de Sistemas y Computación de la [Universidad Nacional de Colombia](http://unal.edu.co/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Proyectos Trabajados
+-Enigmo: aplicación para escritorio que se jugaba subiendo una foto de un "tablero" tomada de un periodico o revista. 
+Proyecto de la asignatura Ingeniería de Software I
+-UnApoyo: sistema de información que soporta al estudiante por medio de sugerencias a decisiones academicas.
+Proyecto de la asignatura Ingeniería de Software II
+-Encriptación de imagen a través de algoritmo genético.
+Proyecto de la asignatura Introducción a los Sistemas Inteligentes
 
-### Markdown
+## Intereses
+Enfoque dirigido hacia el conocimiento de TICs, su genrencia y su desarrollo por medio del gobierno electrónico.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+[git](https://github.com/andfsanchezlem)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andfsanchezlem/andfsanchezlem.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
