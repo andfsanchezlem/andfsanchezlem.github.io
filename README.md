@@ -11,7 +11,7 @@ Estudiante de últimos semestres de Ingeniería de Sistemas y Computación de la
   * Proyecto de la asignatura Introducción a los Sistemas Inteligentes
 
 ## Intereses
-Enfoque dirigido hacia el conocimiento de TICs, su genrencia y su desarrollo por medio del gobierno electrónico.
+Enfoque dirigido hacia el conocimiento de TICs, su gerencia y su desarrollo por medio del gobierno electrónico.
 
 
 [git](https://github.com/andfsanchezlem)
