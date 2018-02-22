@@ -19,6 +19,6 @@ Estudiante de últimos semestres de Ingeniería de Sistemas y Computación de la
 * Estudios actuales en la maestria de Gobierno Electronico en la Universidad Nacional.
 
 
-[git](https://github.com/andfsanchezlem)
+## [Repositorio de git](https://github.com/andfsanchezlem)
 
 
