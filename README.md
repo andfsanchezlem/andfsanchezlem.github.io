@@ -15,6 +15,10 @@ Estudiante de últimos semestres de Ingeniería de Sistemas y Computación de la
   * Proyecto de la asignatura Taller de proyectos interdisciplinarios
 * [UWallet](https://github.com/UWallet): aplicación web y móvil que permite hacer transferencias de pagos entre usuarios. Manejado por medio de microservicios.
   * Proyecto de la signatura Arquitectura de Software
+  
+  
+![](https://github.com/andfsanchezlem/andfsanchezlem.github.io/blob/master/2016%2016_05_35.jpg)
+
 
 ## Intereses
 * Enfoque dirigido hacia el conocimiento de TICs, su gerencia y su desarrollo por medio del gobierno electrónico.
