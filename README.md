@@ -1,5 +1,5 @@
 # Andrés Felipe Sánchez Lemus
-
+![](https://github.com/andfsanchezlem/andfsanchezlem.github.io/blob/master/2016%2016_05_35.jpg)
 Estudiante de últimos semestres de Ingeniería de Sistemas y Computación de la [Universidad Nacional de Colombia](http://unal.edu.co/).
 
 ## Proyectos Trabajados
